@@ -1,0 +1,6 @@
+El paquete Rakefile (rake -T) se utiliza con el parámetro radio cuando se quiere saber el radio de una ciscunferencia con perímetro 5, que es el número puesto por defecto.
+Ejemplo: rake radio
+Con el parámetro test, o sin parámetros, se ejecutan todos los test que contienen tc_radio.rb.
+Ejemplo: rake test
+	    ó
+	 rake
